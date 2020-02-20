@@ -1,15 +1,12 @@
 body {
-    margin: 0px;
-    height: 3240px;
+   
     font-family: Arial, Helvetica, sans-serif;
+   
     background-image: url("/images/background-with-bits.jpg");
     
 
   }
   
-
-
-
   .topnav {
     overflow: hidden;
     background-color: #f1f1f1;
@@ -42,4 +39,107 @@ body {
   color: #3b3838;
   margin: 50px;
 pfffffff
+}
+
+.text1{
+  text-align: right;
+  color: #3b3838;
+  margin: 50px;
+pfffffff
+}
+
+
+.ubos{
+  width: 50%;
+  margin-left: 50%;
+
+
+}
+
+
+
+
+section.aboutus-section{
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	width: 100%;
+	height: 100%;
+}
+
+section.aboutus-section h2{
+	font-size: 20px;
+	margin-top: 0px;
+	text-align: center;
+	color: #3b3838
+}
+
+
+div.section2-content{
+	display: inline-block;
+	width: 49%;	
+}
+
+div.section2-content img{
+
+	height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+div.section2-content p{
+	font-size: 15px;
+	text-align: justify;
+	padding: 74px;
+	float: left;
+}
+
+section.service-section{
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+
+}
+
+section.service-section h3{
+	font-size: 30px;
+	margin-top: 0px;
+	text-align: center;
+	color: black;
+}
+
+div.section3-content{
+	display: inline-block;
+	width: 33%;
+	border-left: 1px solid black;
+	text-align: center;
+	color: black;
+}
+
+div.section3-content p{
+	
+	text-align: justify;
+	padding: 74px;
+	float: left;
+	
+}
+
+.bt1{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+
+.fas fa-clock{
+
+  font-size: 16px;
+
+
 }
